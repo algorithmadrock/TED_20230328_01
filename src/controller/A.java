@@ -30,7 +30,7 @@ public class A {
 			}
 			System.out.println("	TOPO:" + pilha.top());
 		}
-		System.out.println("\nEmpilhamento concluído! \nTamanho:" + pilha.size() + "\n" + pilha.toString());
+		System.out.println("\nEmpilhamento concluído! \nTamanho:" + pilha.size() + "\nPilha:" + pilha.toString());
 	}
 
 }
